@@ -1,5 +1,4 @@
 # GoPush
-此项目为git.oschina.net上获取，目的备份使用。如有侵权，请联系此github账号进行移除，感谢。
 
 > **GoPush**是开源的分布式推送消息服务.
 > * 基于**netty**开发
@@ -11,6 +10,7 @@
 > * 拓展开可以做成客服、聊天、推送等诸多系统
 > * https://gitee.com/openWolf/gopush
 > * https://github.com/lee123lee123/GoPush
+
 ## 技术架构图
 ![技术架构图](https://git.oschina.net/uploads/images/2017/0627/092129_ddd20f29_7872.png "技术架构图")
 
