@@ -1,4 +1,6 @@
 # GoPush
+此项目为git.oschina.net上获取，目的备份使用。如有侵权，请联系此github账号进行移除，感谢。
+
 > **GoPush**是开源的分布式推送消息服务.
 > * 基于**netty**开发
 > * 依赖**redis**
